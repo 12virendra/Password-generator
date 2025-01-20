@@ -51,7 +51,8 @@ const passwordRef=useRef(null);
   return (
     <>
 
-      <div className='w-full h-32 max-w-md mx-auto shadow-md rounded-lg px-4 my-8 bg-gray-500 text-orange-500'>
+
+      <div className='w-full h-32 max-w-md mx-auto mt-60 shadow-gray-600 shadow-xl rounded-lg px-4 my-8 bg-gray-500 text-orange-500'>
 
       <h1 className='text-white text-lg text-center my-3'>Password Generator</h1>
 
